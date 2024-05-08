@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8c0499bdd8307c41b24b3f0c3acf5d6
+timeCreated: 1492417237
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - meteorsound: {instanceID: 0}
+  - meteorsound2: {instanceID: 0}
+  - meteorsound3: {instanceID: 0}
+  - coin: {fileID: 1000011989727392, guid: dba6fef605757d046ab6f2454a0db486, type: 2}
+  - meteorRB: {instanceID: 0}
+  - spawning: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
